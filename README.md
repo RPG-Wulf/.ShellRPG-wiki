@@ -100,3 +100,7 @@ Sie soll:
 
 Spiel- und redigiertes Designerwissen: ja
 private Server-, Sicherheits- und Missbrauchsdetails: nein
+
+## Pangae
+
+[Welt, Tagesereignisse und Schwarmrat](systems/pangae.md)
